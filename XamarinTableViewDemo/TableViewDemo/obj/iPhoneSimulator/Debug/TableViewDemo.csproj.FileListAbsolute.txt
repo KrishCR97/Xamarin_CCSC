@@ -1,0 +1,11 @@
+/Users/student/Desktop/TableViewDemo/TableViewDemo/bin/iPhoneSimulator/Debug/TableViewDemo.exe
+/Users/student/Desktop/TableViewDemo/TableViewDemo/bin/iPhoneSimulator/Debug/TableViewDemo.pdb
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/TableViewDemo.csproj.CoreCompileInputs.cache
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/TableViewDemo.exe
+/Users/student/Desktop/TableViewDemo/TableViewDemo/obj/iPhoneSimulator/Debug/TableViewDemo.pdb

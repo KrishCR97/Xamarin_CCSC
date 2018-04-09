@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6B60AC28-E7BE-4E3C-AC6E-0D9EFE6D8E6C}|Default">
+  <MonoDevelop.Ide.ItemProperties.TableViewDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8DCEEA9A-0CE7-4C2B-8289-B3ED7AE47BD7">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TableViewDemo>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableViewDemo/Main.storyboard">
+    <Files>
+      <File FileName="TableViewDemo/AppDelegate.cs" Line="15" Column="40" />
+      <File FileName="TableViewDemo/Main.storyboard" />
+      <File FileName="TableViewDemo/ViewController.cs" Line="26" Column="70" />
+      <File FileName="TableViewDemo/NamesTableViewSource.cs" Line="21" Column="10" />
+      <File FileName="TableViewDemo/AddFruitVC_.cs" Line="16" Column="61" />
+      <File FileName="TableViewDemo/ViewController.designer (copy).cs" Line="13" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
